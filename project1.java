@@ -4,3 +4,4 @@ echo "Enter your username"
 read username
 echo "Welcome $username, your new private code is $$_$code"
 
+#That is comment
